@@ -2,4 +2,4 @@
 
 1) Introduction -> Getting Started with Elastic Search with a Sample Dataset.
 
-2) Import and Visualization -> Importing the Dataset and Visualization in Kibana.
+2) Data Loading and Indexing -> Importing the Dataset and Visualization in Kibana.
